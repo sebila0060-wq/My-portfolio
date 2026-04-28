@@ -20,7 +20,7 @@ body {
     margin-top: 10px;
     width: 100%;
     height: 100vh; /* full screen height */
-    background-image: url(/images/photo_2026-04-27_17-43-56.jpg);
+    background-image: url(/photo_2026-04-27_17-43-56.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -486,7 +486,7 @@ nav .fa-solid{
 }
     #header {
         
-        background-image: url(/images/photo_2026-04-27_17-56-57.jpg);
+        background-image: url(/photo_2026-04-27_17-47-36.jpg);
         /* background-size: cover;
         background-position: center;
         background-attachment: fixed; */
